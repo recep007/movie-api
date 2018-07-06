@@ -4,7 +4,7 @@ const Schema = mongoose.Schema;
  const MovieSchema = new Schema({
    director_id: {
      type: Schema.Types.ObjectId,
-     required: true
+     //required: true
    },
    title: {
      type: String,
