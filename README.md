@@ -1,4 +1,4 @@
-# movie-api
+# movie-API
 # Movies
 
 | Route | HTTP Verb	 | POST body	 | Description	 |
