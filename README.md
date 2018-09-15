@@ -1,6 +1,4 @@
 # movie-api
-![nodejs dersleri](https://mehmetseven.net/content/images/2017/12/nodejs-mehmet-seven.jpg)
-
 # Movies
 
 | Route | HTTP Verb	 | POST body	 | Description	 |
